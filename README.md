@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @ahannema
+- 🧑‍💻  I'm a DevOps Engineer from Paderborn, Germany
+- 🏢  I’m currently working at omp computer GmbH
+- 📡 My personal Tech Radar
+- 📧 How to reach me: Email 
 
 
 <!---
