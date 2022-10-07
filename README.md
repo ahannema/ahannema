@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahannema
 - 🧑‍💻  I'm a DevOps Engineer from Paderborn, Germany
-- 🏢  I’m currently working at omp computer GmbH
+- 🏢  I’m currently working at S&N Invent GmbH
 - 📡 My personal [Tech Radar](http://tech-radar.ahannema.dev)
 - 📧 How to reach me: [Email](mailto:hannemann_a@gmx.de)
 
